@@ -1,0 +1,9 @@
+body {
+  background-color: whitesmoke;
+  }
+  .jumbotron {
+    background-image: url("../images/cdc-unsplash.jpg");
+    background-size: 100%;
+    text-align: center;
+    color: black;
+  }
